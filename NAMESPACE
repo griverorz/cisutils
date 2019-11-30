@@ -2,12 +2,11 @@
 
 export(input)
 export(known_recodes)
-export(recode_missings)
+export(recode_missing)
 export(recode_values)
 export(rename_variables)
 export(retype)
 export(subselect)
-export(valid_instructions)
 import(dplyr)
 import(haven)
 import(jsonlite)
