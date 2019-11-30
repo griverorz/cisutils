@@ -7,7 +7,9 @@ Author: Gonzalo Rivero [aut, cre],
 Maintainer: Gonzalo Rivero <me@griverorz.net>
 Description: Simple package to clean CIS data
 Depends:
-    R (>= 3.1.0)
+    R (>= 3.1.0),
+    haven,
+    jsonlite
 License: GPL (>= 2)
 LazyData: true
 Suggests:
