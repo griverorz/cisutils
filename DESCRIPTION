@@ -1,6 +1,6 @@
 Package: cisutils
 Title: Utilities to use CIS data
-Version: 1.1.0
+Version: 1.1.1
 Authors@R: person("Gonzalo", "Rivero", email = "me@griverorz.net",
                   role = c("aut", "cre"))
 Author: Gonzalo Rivero [aut, cre],
